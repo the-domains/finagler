@@ -1,0 +1,14 @@
+layout_spectrum: 0.6439204092603177
+typography_spectrum: 0.7137450000736862
+color:
+  brandStrength: 0.7264984529465437
+  lightness: 0.7426503610331565
+  saturation: 0.09396883589215577
+  rhythmicContrast: 0.3684520262759179
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Finagler
